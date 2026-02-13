@@ -1,5 +1,5 @@
 # Formatted Tables Example
-This paragraph introduces a table that demonstrates different types of formatting inside table cells, including Markdown styling and inline HTML elements.
+This paragraph introduces a test table that demonstrates different types of formatting inside table cells, including Markdown styling and inline HTML elements.
 | Feature       | Example                                  | Notes                         |
 |---------------|------------------------------------------|-------------------------------|
 | Bold Text     | **Important**                            | Uses `**bold**` syntax        |
