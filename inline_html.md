@@ -1,1 +1,2 @@
-This is <a href="https://get-colibri.com">a html link</a> inside of markdown
+This is <a href="https://get-colibri.com">a html link</a>a html link inside of markdown
+This is <a href="https://get-colibri.com">a html link</a> inside of markdownThis is <a href="https://get-colibri.com">a html link</a> inside of markdown
