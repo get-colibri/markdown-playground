@@ -6,7 +6,7 @@
 | Link        | [Legit](https://legitcontrol.com) | Standard Markdown link                    |
 
 Pure markdown in block qoute
-> | Feature        | Example                                  | Notes                                  |
+ | Feature        | Example                                  | Notes                                  |
 > |----------------|------------------------------------------|----------------------------------------|
 > | Bold Text      | **Important**                            | Uses `**bold**` syntax                 |
 > | Italic Text    | *Emphasis*                               | Uses `*italic*` syntax                 |
