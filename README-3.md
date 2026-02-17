@@ -5,7 +5,7 @@ Colibri is an online **collaborative Markdown editor** designed specifically to 
 ![colibir](./app-screen.webp)
 ## 📌 Key Purpose
 
-Colibri helps teams **edit Markdown files together** without leaving GitHub workflows.
+Colibri helps teams **edit ****Markdown**** files together** without leaving GitHub workflows.
 It brings the ease of collaborative editing (like Google Docs) to Markdown files stored on GitHub.
 ## 💡 What You Can Do
 
