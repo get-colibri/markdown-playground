@@ -6,7 +6,7 @@ Wow nice wow
 
 - this
 - what?
--  nice
+-  nice. 
 ![colibir](./app-screen.webp)
 
 ## 📌 Key Purpose
