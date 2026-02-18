@@ -1,6 +1,4 @@
-This is a
-
-soft   
+This is asoft   
 break
 
 <br>
