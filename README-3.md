@@ -4,7 +4,7 @@ Colibri is an online **collaborative Markdown editor** designed specifically to 
 
 Wow nice wow
 
-- thiu
+- this
 ![colibir](./app-screen.webp)
 
 ## 📌 Key Purpose
