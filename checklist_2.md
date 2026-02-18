@@ -6,5 +6,3 @@ cool
 - Checkbox 2
 - Checkbox 3
 nice
-
-- 
