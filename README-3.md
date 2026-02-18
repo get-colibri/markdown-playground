@@ -36,6 +36,7 @@ Add comments directly in the document for asynchronous reviews and discussion.
 - **Shareable editor links** for teammates or collaborators.
 - **Git sync** — push updates back into GitHub via pull requests.
 - **Inline comments** for review workflows.
+1. 
 - **Inline comments** for review workflows.
 ## 💰 Pricing Overview
 
