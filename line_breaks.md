@@ -1,7 +1,8 @@
-This is asoft   
-break
+ e ak
 
 <br>
-This `is a
+Thi
+
+s `is a
 soft break inside of inline code`This is a paragraph break  
 This is a LineBreak
