@@ -3,7 +3,11 @@ soft break
 
 <br>
 This `is a
-soft break inside of inline cod
+soft break inside of 
+
+&#8203;
+
+inline cod
 
 e`
 
