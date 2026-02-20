@@ -7,5 +7,6 @@ break
 This `is a
 soft break inside of inline code`
 
-This is a paragraph break  
+This is a paragra  
+ph break  
 This is a LineBreak
