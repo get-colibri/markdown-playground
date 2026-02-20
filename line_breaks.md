@@ -3,7 +3,9 @@ soft break
 
 <br>
 This `is a
-soft break inside of inline code`
+soft break inside of inli
 
-This is a paragraph break  
+ne code`
+
+ddThis is a paragraph break  
 This is a LineBreak
