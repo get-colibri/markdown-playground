@@ -5,7 +5,9 @@ soft break
 This `is a
 soft break inside of inline cod
 
+This is anew Paragraph
+
 e`
 
-ThThis is a paragraph break  
+This as wellThis is a paragraph break  
 This is a LineBreak
