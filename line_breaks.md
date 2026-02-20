@@ -1,9 +1,11 @@
 This is a
 soft break
 
-<br>
+<
+
+br>
 This `is a
 soft break inside of inline code`
 
-This is a paragraph break  
+dThis is a paragraph break  
 This is a LineBreak
