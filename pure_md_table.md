@@ -5,7 +5,7 @@
 | Inline Code | `const value = 42;`               | Code formatting inside a cell |
 | Link        | [Legit](https://legitcontrol.com) | Standard Markdown link        |
 
-Pure markdoasdawn in block qoute
+Pure markdoasdasdwn in block qoute
 
 > | Feature        | Example                                  | Notes                                  |
 > |----------------|------------------------------------------|----------------------------------------|
