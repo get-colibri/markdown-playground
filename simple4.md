@@ -10,10 +10,10 @@
 - PR text `@jannes` `@martin`? 
 - Root doesnt work app.get-colibri.com `@nils`
 - "new" button - modal! `@jannes`
-- Saved fork hover doesn't resolve to the branch where changes are applied @martin ->
+- Saved fork hover doesn't resolve to the branch where changes are applied @martin -> @nils
 - master/main redirect - join room exception handling `@? `
 - checkbox to markdown broken `@Martin`
-- Fork button initial state is broken `@nils`
+- Fork button initial state is broken `@nils )v`
 - PR gets created in the orgin repo - check if it is possible to do that differently `@jannes`
 - Repo -> fork -> Colibri -> PR Fork -> PR Repo `@jannes`
 - Load test - how to break the backend - 
