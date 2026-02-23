@@ -25,7 +25,7 @@
 
 devices
 
-peerId -> device
+peerId -> device(pub
 
 &#8203;
 
