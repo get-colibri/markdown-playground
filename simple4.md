@@ -2,7 +2,7 @@
 
 - show pr button needs the right url
 - Check all "read more here" buttons to link correctly
-- Cursors move backward 
+- Cursors move backwards
 - Annotations dont get removed when text iss removed
 - Commenting - delete comment
 - Commenting - resolve comment
@@ -12,6 +12,8 @@
 - Saved fork hover doesnt resolve to the branch where changes are applied
 - :D
 
+
+&#8203;
 
 &#8203;
 
