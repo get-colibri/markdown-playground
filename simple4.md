@@ -7,7 +7,7 @@
 - Commenting - delete comment `@Nils`
 - Commenting - resolve comment `@Nils`
 - PR text @jannes @martin? 
-- Root doesnt work app.get-colibri.com `@nils`
+- Root doesnt work app.get-colibri.com @nils
 - "new" button - modal!@jannes
 - Saved fork hover doesnt resolve to the branch where changes are applied
 - master/main redirect - join room exception handling
