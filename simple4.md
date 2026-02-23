@@ -13,7 +13,7 @@
 - master/main redirect - join room exception handling
 - checkbox to markdown broken `@Martin`
 - Fork button initial state is broken
-- PR gets created in the orgin repo - check if it is possible to do that differrently 
+- PR gets created in the orgin repo - check if it is possible to do that differently @
 - Repo -> fork -> Colibri -> PR Fork -> PR Repo `@jannes`
 - Load test - how to break the backend - 
 - Load event posthog - get the userid [(IdentityStore)](https://github.com/Legit-Control/colibri/blob/main/src/lib/auth/IdentityStore.ts) 
