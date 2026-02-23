@@ -12,7 +12,7 @@
 - Saved fork hover doesnt resolve to the branch where changes are applied
 - master/main redirect - join room exception handling
 - checkbox to markdown broken
-- Fork button
+- Fork button initial stat
 
 
 &#8203;
