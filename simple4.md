@@ -10,7 +10,7 @@
 - Root doesnt work app.get-colibri.com `@nils`
 - "new" button - modal! `@jannes`
 - Saved fork hover doesnt resolve to the branch where changes are applied
-- master/main redirect - join room exception handling 
+- master/main redirect - join room exception handling `@? `
 - checkbox to markdown broken `@Martin`
 - Fork button initial state is broken `@nils`
 - PR gets created in the orgin repo - check if it is possible to do that differently `@jannes`
