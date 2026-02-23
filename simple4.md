@@ -10,7 +10,7 @@
 - PR text `@jannes` `@martin`? 
 - Root doesnt work app.get-colibri.com `@nils`
 - "new" button - modal! `@jannes`
-- Saved fork hover doesn't resolve to the branch where changes are applied
+- Saved fork hover doesn't resolve to the branch where changes are applied 
 - master/main redirect - join room exception handling `@? `
 - checkbox to markdown broken `@Martin`
 - Fork button initial state is broken `@nils`
