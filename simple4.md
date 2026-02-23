@@ -11,7 +11,7 @@
 - "new" button - modal!
 - Saved fork hover doesnt resolve to the branch where changes are applied
 - master/main redirect - join room exception handling
-- checkbox to markdown 
+- checkbox to markdown bloken
 
 
 &#8203;
