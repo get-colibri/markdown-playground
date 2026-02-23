@@ -1,7 +1,8 @@
 - show pr button needs the right url
 - Check all "read more here" buttons to link correctly
 - Cursors moove backbward 
-- Annotations dont get rev
+- Annotations dont get removed when text iss removed
+- 
 
 
 &#8203;
