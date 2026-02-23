@@ -2,7 +2,7 @@
 
 - show pr button needs the right url
 - Check all "read more here" buttons to link correctly
-- Cursors moove backbward 
+- Cursors move backward 
 - Annotations dont get removed when text iss removed
 - Commenting - delete comment
 - Commenting - resolve comment
