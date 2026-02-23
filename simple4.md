@@ -2,7 +2,8 @@
 - Check all "read more here" buttons to link correctly
 - Cursors moove backbward 
 - Annotations dont get removed when text iss removed
-- Comment
+- Commenting - delete comment
+- 
 
 
 &#8203;
