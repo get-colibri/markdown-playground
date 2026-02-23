@@ -5,7 +5,7 @@
 - Commenting - delete comment
 - Commenting - resolve comment
 - PR text 
-- Ro
+- Root doesnt work app
 
 
 &#8203;
