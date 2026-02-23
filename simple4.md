@@ -1,5 +1,5 @@
 - show pr button needs the right url
-- Check al
+- Check all "read 
 
 
 &#8203;
