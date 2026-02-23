@@ -1,6 +1,6 @@
 # Todo's
 
-- show pr button needs the right url `@martin` -> send error staes
+- show pr button needs the right url `@martin` -> send error states 
 - Check all "read more here" buttons to link correctly @jannes
 - Cursors move backwards - if written before@martin
 - Annotations don't get removed when text iss removed@?
@@ -17,7 +17,7 @@
 - Repo -> fork -> Colibri -> PR Fork -> PR Repo `@jannes`
 - Load test - how to break the backend - 
 - Load event posthog - get the userid [(IdentityStore)](https://github.com/Legit-Control/colibri/blob/main/src/lib/auth/IdentityStore.ts) 
-- Fix code block icon in toolba
+- Fix code block icon in toolbar `@nils`
 
 
 &#8203;
