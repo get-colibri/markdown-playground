@@ -3,13 +3,13 @@
 - show pr button needs the right url `@martin` -> send error states `@nils`
 - Check all "read more here" buttons to link correctly `@jannes`
 - Cursors move backwards - if written before `@martin`
-- Annotations don't get removed when text iss removed@?
+- Annotations don't get removed when text iss removed @?
 - Commenting - delete comment `@Nils`
 - Commenting - resolve comment `@Nils`
 - PR text `@jannes` `@martin`? 
 - Root doesnt work app.get-colibri.com `@nils`
 - "new" button - modal! `@jannes`
-- Saved fork hover doesnt resolve to the branch where changes are applied
+- Saved fork hover doesn't resolve to the branch where changes are applied
 - master/main redirect - join room exception handling `@? `
 - checkbox to markdown broken `@Martin`
 - Fork button initial state is broken `@nils`
