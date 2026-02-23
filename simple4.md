@@ -6,8 +6,8 @@
 - Commenting - resolve comment
 - PR text 
 - Root doesnt work app.get-colibri.com
-- "new" button - 
-- 
+- "new" button - modal!
+- Save
 
 
 &#8203;
