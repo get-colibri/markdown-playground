@@ -27,7 +27,9 @@ devices
 
 peerId -> device(public key)
 
-1 -> 
+1 -> device1 
+
+2 -> dec
 
 &#8203;
 
