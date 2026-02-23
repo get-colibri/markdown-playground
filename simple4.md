@@ -7,7 +7,7 @@
 - PR text 
 - Root doesnt work app.get-colibri.com
 - "new" button - modal!
-- Saved fork hover doesntr 
+- Saved fork hover doesnt resolve to the bra
 
 
 &#8203;
