@@ -1,7 +1,7 @@
 # Todo's
 
-- show pr button needs the right url @
-- Check all "read more here" buttons to link correctly
+- show pr button needs the right url @nils
+- Check all "read more here" buttons to link correctly@jannes
 - Cursors move backwards - if written before
 - Annotations don't get removed when text iss removed
 - Commenting - delete comment `@Nils`
