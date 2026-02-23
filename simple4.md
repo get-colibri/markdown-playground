@@ -4,7 +4,8 @@
 - Annotations dont get removed when text iss removed
 - Commenting - delete comment
 - Commenting - resolve comment
-- PR 
+- PR text 
+- 
 
 
 &#8203;
