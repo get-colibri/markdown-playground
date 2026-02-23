@@ -44,7 +44,11 @@ a Das hier wird gespeichert
 
 vor allem wen ich nichts schreibe kann :( 
 
-also wäre es jetzt `lles vo
+also wäre es jetzt `lles von mir? 
+
+&#8203;
+
+&#8203;
 
 &#8203;
 
