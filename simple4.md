@@ -13,13 +13,14 @@
 - Saved fork hover doesn't resolve to the branch where changes are applied @martin -> @nils
 - master/main redirect - join room exception handling `@? `
 - checkbox to markdown broken `@Martin`
-- Hightlighting broken for current annotation @martin
+- Hightlighting broken for current annotation `@martin`
 - Fork button initial state is broken (can now be solved by room-state event) `@nils`
 - PR gets created in the orgin repo - check if it is possible to do that differently `@jannes`
 - Repo -> fork -> Colibri -> PR Fork -> PR Repo `@jannes`
 - Load test - how to break the backend - 
 - Load event posthog - get the userid [(IdentityStore)](https://github.com/Legit-Control/colibri/blob/main/src/lib/auth/IdentityStore.ts) 
 - Fix code block icon in toolbar `@nils`
+- 
 
 
 test
