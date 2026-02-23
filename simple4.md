@@ -16,7 +16,7 @@
 - PR gets created in the orgin repo - check if it is possible to do that differrently 
 - Repo -> fork -> Colibri -> PR Fork -> PR Repo @jannes
 - Load test - how to break the backend - 
-- Load 
+- Load event posthog -
 
 
 &#8203;
