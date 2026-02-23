@@ -6,12 +6,12 @@
 - Annotations don't get removed when text iss removed@?
 - Commenting - delete comment `@Nils`
 - Commenting - resolve comment `@Nils`
-- PR text @jannes @martin? 
+- PR text `@jannes` `@martin`? 
 - Root doesnt work app.get-colibri.com `@nils`
 - "new" button - modal!@jannes
 - Saved fork hover doesnt resolve to the branch where changes are applied
 - master/main redirect - join room exception handling
-- checkbox to markdown broken @Martin
+- checkbox to markdown broken `@Martin`
 - Fork button initial state is broken
 - PR gets created in the orgin repo - check if it is possible to do that differrently 
 - Repo -> fork -> Colibri -> PR Fork -> PR Repo `@jannes`
