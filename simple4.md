@@ -3,7 +3,7 @@
 - Cursors moove backbward 
 - Annotations dont get removed when text iss removed
 - Commenting - delete comment
-- 
+- Commenting - reso comment
 
 
 &#8203;
