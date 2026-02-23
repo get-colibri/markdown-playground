@@ -6,7 +6,7 @@
 - Annotations don't get removed when text iss removed?` @?`
 - Commenting - delete comment `@Nils`
 - [Commenting - resolve comment](https://github.com/Legit-Control/colibri-website/issues/36) `@Nils`
-- UI glitch new dd annotation `@nils`
+- UI glitch new annotation `@nils`
 - PR text `@jannes` `@martin`? 
 - Root doesnt work app.get-colibri.com `@nils`
 - "new" button - modal! `@jannes`
