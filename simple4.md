@@ -35,7 +35,7 @@ peerId -> device(public key)
 
 users
 
-device-> user({ name: }
+device-> user({ name: string}) <- signiert
 
 &#8203;
 
