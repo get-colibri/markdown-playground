@@ -6,7 +6,7 @@
 - Annotations don't get removed when text iss removed@?
 - Commenting - delete comment `@Nils`
 - Commenting - resolve comment `@Nils`
-- PR text 
+- PR text @jannes @
 - Root doesnt work app.get-colibri.com
 - "new" button - modal!@jannes
 - Saved fork hover doesnt resolve to the branch where changes are applied
