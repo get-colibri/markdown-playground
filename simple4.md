@@ -13,7 +13,7 @@
 - master/main redirect - join room exception handling
 - checkbox to markdown broken
 - Fork button initial state is broken
-- PR gets created in the orgin repo - check if it is possibl
+- PR gets created in the orgin repo - check if it is possible to do that differrent
 
 
 &#8203;
