@@ -5,7 +5,7 @@
 - Cursors move backwards - if written before `@martin`
 - Annotations don't get removed when text iss removed?` @?`
 - Commenting - delete comment `@Nils`
-- Commenting - resolve comment `@Nils`
+- [Commenting - resolve comment](https://github.com/Legit-Control/colibri-website/issues/36) `@Nils`
 - PR text `@jannes` `@martin`? 
 - Root doesnt work app.get-colibri.com `@nils`
 - "new" button - modal! `@jannes`
