@@ -20,7 +20,8 @@
 - Load test - how to break the backend - 
 - Load event posthog - get the userid [(IdentityStore)](https://github.com/Legit-Control/colibri/blob/main/src/lib/auth/IdentityStore.ts) 
 - Fix code block icon in toolbar `@nils`
-- view Modes (show/hide - html comments)
+- view Modes 
+  - (show/hide - html comments)
 
 
 test
