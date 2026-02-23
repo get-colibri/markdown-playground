@@ -2,10 +2,10 @@
 
 - show pr button needs the right url
 - Check all "read more here" buttons to link correctly
-- Cursors move backwards - if writen before
+- Cursors move backwards - if written before
 - Annotations don't get removed when text iss removed
 - Commenting - delete comment `@Nils`
-- Commenting - resolve comment @Nils
+- Commenting - resolve comment `@Nils`
 - PR text 
 - Root doesnt work app.get-colibri.com
 - "new" button - modal!
