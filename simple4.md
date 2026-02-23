@@ -25,7 +25,7 @@
 
 devices
 
-peerId -> device(pub
+peerId -> device(public key)
 
 &#8203;
 
