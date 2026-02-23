@@ -16,7 +16,7 @@
 - PR gets created in the orgin repo - check if it is possible to do that differrently 
 - Repo -> fork -> Colibri -> PR Fork -> PR Repo @jannes
 - Load test - how to break the backend - 
-- Load event posthog - get the userid (IdentityStore) 
+- Load event posthog - get the userid [(IdentityStore)](https://github.com/Legit-Control/colibri/blob/main/src/lib/auth/IdentityStore.ts) 
 
 
 &#8203;
