@@ -4,8 +4,8 @@
 - Check all "read more here" buttons to link correctly
 - Cursors move backwards - if writen before
 - Annotations don't get removed when text iss removed
-- Commenting - delete comment @
-- Commenting - resolve comment
+- Commenting - delete comment @Nils
+- Commenting - resolve comment @Nils
 - PR text 
 - Root doesnt work app.get-colibri.com
 - "new" button - modal!
