@@ -46,11 +46,11 @@ vor allem wen ich nichts schreibe kann :(
 
 also wäre es jetzt `lles von mir? 
 
-&#8203;
+jannes schreibt
 
 &#8203;
 
-assdJetzt chreibt martin
+assdasdJetzt chreibt martin
 
 i
 
