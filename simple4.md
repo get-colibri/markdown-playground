@@ -11,7 +11,7 @@
 - "new" button - modal!
 - Saved fork hover doesnt resolve to the branch where changes are applied
 - master/main redirect - join room exception handling
-- checkbox to markdown broken
+- checkbox to markdown broken 
 
 
 &#8203;
@@ -20,7 +20,7 @@
 
 &#8203;
 
-this isin a a  
+<br><br>this isin a a  
 <br><br>
 
 &#8203;
