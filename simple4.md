@@ -1,5 +1,5 @@
 - show pr button needs the right url
-- Check all "read more he
+- Check all "read more here" buttons to link correc
 
 
 &#8203;
