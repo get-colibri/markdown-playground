@@ -1,5 +1,6 @@
 - show pr button needs the right url
-- Check all "read more here" buttons to link correc
+- Check all "read more here" buttons to link correctly
+- Cursos mo
 
 
 &#8203;
