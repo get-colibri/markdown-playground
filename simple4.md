@@ -25,7 +25,7 @@
 
 devices
 
-peerO
+peerId -> device
 
 &#8203;
 
