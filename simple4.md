@@ -1,6 +1,6 @@
 # Todo's
 
-- show pr button needs the right url `@n`
+- show pr button needs the right url `@martin`
 - Check all "read more here" buttons to link correctly@jannes
 - Cursors move backwards - if written before@martin
 - Annotations don't get removed when text iss removed@?
