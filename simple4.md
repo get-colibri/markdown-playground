@@ -35,7 +35,7 @@ peerId -> device(public key)
 
 users
 
-device-> user(
+device-> user({ name: }
 
 &#8203;
 
