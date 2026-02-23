@@ -35,7 +35,7 @@ peerId -> device(public key)
 
 users
 
-devi
+device-> user
 
 &#8203;
 
