@@ -1,14 +1,14 @@
 # Todo's
 
-- show pr button needs the right url @nils
+- show pr button needs the right url `@nils`
 - Check all "read more here" buttons to link correctly@jannes
 - Cursors move backwards - if written before@martin
-- Annotations don't get removed when text iss removed
+- Annotations don't get removed when text iss removed@?
 - Commenting - delete comment `@Nils`
 - Commenting - resolve comment `@Nils`
 - PR text 
 - Root doesnt work app.get-colibri.com
-- "new" button - modal!
+- "new" button - modal!@jannes
 - Saved fork hover doesnt resolve to the branch where changes are applied
 - master/main redirect - join room exception handling
 - checkbox to markdown broken
