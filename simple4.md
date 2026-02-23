@@ -1,7 +1,7 @@
 - show pr button needs the right url
 - Check all "read more here" buttons to link correctly
 - Cursors moove backbward 
-- An
+- Annotations dont get rev
 
 
 &#8203;
