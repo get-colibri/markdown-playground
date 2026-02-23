@@ -42,7 +42,9 @@ a Das hier wird gespeichert
 
 &#8203;
 
-vor allem wen ich nichts schreibe kann 
+vor allem wen ich nichts schreibe kann :( 
+
+&#8203;
 
 &#8203;
 
