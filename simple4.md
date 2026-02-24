@@ -14,7 +14,7 @@
 - [x] master/main redirect - join room exception handling `@? `
 - [x] checkbox to markdown broken `@Martin`
 - [ ] Hightlighting broken for current annotation `@martin`
-- [ ] Fork button initial state is broken (can now be solved by room-state event) `@nils`
+- [x] Fork button initial state is broken (can now be solved by room-state event) `@nils`
 - [x] PR gets created in the orgin repo - check if it is possible to do that differently `@jannes`
 - [ ] Repo -> fork -> Colibri -> PR Fork -> PR Repo `@jannes`
 - [ ] Load test - how to break the backend - 
