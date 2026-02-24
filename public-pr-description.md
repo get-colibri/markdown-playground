@@ -1,7 +1,7 @@
-This pr was created with colibeaasd martin iri, it includes changes proposed by:  
+This pr was created with colibeaasd martin iri, itanges proposed by:  
 ${n-users} Users in `${filename}`
 
-Beyond the propsosed changes, **${n-annotations} annotations** had been created.
+Haslllo Beyond the propsosed changesadad a**-annotations} annotations** had been created.
 
 Open the Document in Colibrie to [read more](${colibriurl}).
 
