@@ -3,7 +3,7 @@
 - [x] show pr button needs the right url `@martin` -> send error states `@nils`
 - [ ] User name not loaded correcly - starts with Anonymous `@martin`
 - [ ] fix deployment :D
-- [ ] fix missing paragraph after type list in to markdown @ma
+- [ ] fix missing paragraph after type list in to markdown `@martin`
 - [ ] add ordering output for list items (increase for now) `@martin`
 - [ ] update instances to minimum maschine on render `@martin`
 - [ ] Upload image should show a unhappy path
