@@ -6,9 +6,9 @@
 - [x] fix missing paragraph after type list in to markdown `@martin`
 - [x] add ordering output for list items (increase for now) `@martin`
 - [ ] update instances to minimum maschine on render `@martin`
-- [ ] Upload image should show a unhappy path `@martin`
+- [x] Upload image should show a unhappy path `@martin`
 - [ ] add mermaid type to code block
-- [ ] provide errors from backend: `@martin`
+- [x] provide errors from backend: `@martin`
   - [ ] Unkown url (auch private)
   - [ ] Unsupported provider
   - [ ] unsupported file type
