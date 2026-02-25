@@ -4,14 +4,18 @@
 - [ ] User name not loaded correcly - starts with Anonymous `@martin`
 - [ ] fix deployment :D
 - [ ] update instances to minimum maschine on render `@martin`
-- [ ] Upload image should show a unhappy path
-- [ ] add mermaid type to code block
-- [ ] provide errors from backend: `@martin`
+- [x] Upload image should show a unhappy path
+- [ ] link issues to unhappy paths `@jannes`
+- [ ] add mermaid type to code block `@martin`
+- [ ] add lock hover state to raw elements
+- [ ] second level checkboxes `@nils`
+- [x] provide errors from backend: `@martin`
   - [ ] Unkown url (auch private)
   - [ ] Unsupported provider
   - [ ] unsupported file type
 - [ ] connect erros in frontend `@nils`
-- [ ] handle error when server is down<br>&#8203;
+- [ ] handle error when server is down (ws error) `@nils
+`
 - [ ] Check all "read more here" buttons to link correctly `@jannes`
 - [x] Cursors move backwards - if written before `@martin`
 - [x] Annotations don't get removed when text iss removed?` @?`
