@@ -7,7 +7,7 @@
   - [ ] Unkown url (auch private)
   - [ ] Unsupported provider
   - [ ] unsupported file type
-- [ ] con<br>&#8203;
+- [ ] connect erros in frontend <br>&#8203;
 - [ ] Check all "read more here" buttons to link correctly `@jannes`
 - [x] Cursors move backwards - if written before `@martin`
 - [x] Annotations don't get removed when text iss removed?` @?`
