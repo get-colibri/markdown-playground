@@ -7,8 +7,8 @@
 - [ ] Upload image should show a unhappy path
 - [ ] add mermaid type to code block
 - [ ] add lock hover state to raw elements
-- [ ] second level checkboxes @nils
-- [ ] provide errors from backend: `@martin`
+- [ ] second level checkboxes `@nils`
+- [x] provide errors from backend: `@martin`
   - [ ] Unkown url (auch private)
   - [ ] Unsupported provider
   - [ ] unsupported file type
