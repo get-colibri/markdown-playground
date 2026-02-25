@@ -8,7 +8,7 @@
   - [ ] Unsupported provider
   - [ ] unsupported file type
 - [ ] connect erros in frontend `@nils`
-- [ ] chec<br>&#8203;
+- [ ] handle error when serv<br>&#8203;
 - [ ] Check all "read more here" buttons to link correctly `@jannes`
 - [x] Cursors move backwards - if written before `@martin`
 - [x] Annotations don't get removed when text iss removed?` @?`
