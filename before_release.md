@@ -4,7 +4,7 @@
 - [ ] User name not loaded correcly - starts with Anonymous `@martin`
 - [ ] fix deployment :D
 - [ ] update instances to minimum maschine on render `@martin`
-- [ ] Upload image should show a unhappy path
+- [x] Upload image should show a unhappy path
 - [ ] add mermaid type to code block
 - [ ] add lock hover state to raw elements
 - [ ] second level checkboxes `@nils`
