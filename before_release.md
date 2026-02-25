@@ -6,7 +6,7 @@
 - [ ] provide errors from backend:
   - [ ] Unkown url (auch private)
   - [ ] Unsupported provider
-  - [ ] <br>&#8203;
+  - [ ] unsupported file ty<br>&#8203;
 - [ ] Check all "read more here" buttons to link correctly `@jannes`
 - [x] Cursors move backwards - if written before `@martin`
 - [x] Annotations don't get removed when text iss removed?` @?`
