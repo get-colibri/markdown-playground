@@ -2,7 +2,7 @@
 
 - [x] show pr button needs the right url `@martin` -> send error states `@nils`
 - [ ] User name not loaded correcly - starts with Anonymous `@martin`
-- [ ] update instances to minim
+- [ ] update instances to minimum maschine on render 
 - [ ] Upload image should show a unhappy path
 - [ ] add mermaid type to code block
 - [ ] provide errors from backend: `@martin`
