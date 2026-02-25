@@ -3,7 +3,7 @@
 - [x] show pr button needs the right url `@martin` -> send error states `@nils`
 - [ ] Check all "read more here" buttons to link correctly `@jannes`
 - [x] Cursors move backwards - if written before `@martin`
-- [ ] Annotations don't get removed when text iss removed?` @?`
+- [x] Annotations don't get removed when text iss removed?` @?`
 - [ ] Commenting - delete comment `@Nils`
 - [ ] [Commenting - resolve comment](https://github.com/Legit-Control/colibri-website/issues/36) `@Nils`
 - [ ] UI glitch new annotation `@nils`
