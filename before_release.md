@@ -3,7 +3,7 @@
 - [x] show pr button needs the right url `@martin` -> send error states `@nils`
 - [ ] User name not loaded correcly - starts with Anonymous `@martin`
 - [ ] Upload image should show a unhappy path
-- [ ] 
+- [ ] add mermaid type 
 - [ ] provide errors from backend: `@martin`
   - [ ] Unkown url (auch private)
   - [ ] Unsupported provider
