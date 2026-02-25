@@ -4,7 +4,7 @@
 - [ ] User name not loaded correcly - starts with Anonymous `@martin`
 - [ ] Upload image should show a unhappy path
 - [ ] provide errors from backend:
-  - [ ] 
+  - [ ] Unkown url (auch private)
 - [ ] Check all "read more here" buttons to link correctly `@jannes`
 - [x] Cursors move backwards - if written before `@martin`
 - [x] Annotations don't get removed when text iss removed?` @?`
