@@ -2,7 +2,7 @@
 
 - [x] show pr button needs the right url `@martin` -> send error states `@nils`
 - [ ] Check all "read more here" buttons to link correctly `@jannes`
-- [ ] Cursors move backwards - if written before `@martin`
+- [x] Cursors move backwards - if written before `@martin`
 - [ ] Annotations don't get removed when text iss removed?` @?`
 - [ ] Commenting - delete comment `@Nils`
 - [ ] [Commenting - resolve comment](https://github.com/Legit-Control/colibri-website/issues/36) `@Nils`
