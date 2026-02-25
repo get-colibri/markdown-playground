@@ -6,7 +6,7 @@
 - [ ] update instances to minimum maschine on render `@martin`
 - [x] Upload image should show a unhappy path
 - [ ] link issues to unhappy paths `@jannes`
-- [ ] add mermaid type to code block @
+- [ ] add mermaid type to code block `@martin`
 - [ ] add lock hover state to raw elements
 - [ ] second level checkboxes `@nils`
 - [x] provide errors from backend: `@martin`
