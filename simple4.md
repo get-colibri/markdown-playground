@@ -13,7 +13,7 @@
 - [x] Saved fork hover doesn't resolve to the branch where changes are applied @martin -> @nils
 - [x] master/main redirect - join room exception handling `@? `
 - [x] checkbox to markdown broken `@Martin`
-- [ ] Hightlighting broken for current annotation `@martin`
+- [x] Hightlighting broken for current annotation `@martin`
 - [x] Fork button initial state is broken (can now be solved by room-state event) `@nils`
 - [x] PR gets created in the orgin repo - check if it is possible to do that differently `@jannes`
 - [ ] Repo -> fork -> Colibri -> PR Fork -> PR Repo `@jannes`
