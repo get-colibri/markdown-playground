@@ -3,7 +3,7 @@
 - [x] show pr button needs the right url `@martin` -> send error states `@nils`
 - [ ] User name not loaded correcly - starts with Anonymous `@martin`
 - [ ] fix deployment :D
-- [ ] fi
+- [ ] fix missing paragraph after 
 - [ ] update instances to minimum maschine on render `@martin`
 - [ ] Upload image should show a unhappy path
 - [ ] add mermaid type to code block
