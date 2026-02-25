@@ -2,6 +2,7 @@
 
 - [x] show pr button needs the right url `@martin` -> send error states `@nils`
 - [x] User name not loaded correcly - starts with Anonymous `@martin`
+- [ ] F
 - [ ] fix deployment :D `@martin`
 - [x] fix missing paragraph after type list in to markdown `@martin`
 - [x] add ordering output for list items (increase for now) `@martin`
