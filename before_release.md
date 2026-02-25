@@ -24,7 +24,7 @@
 - [x] Hightlighting broken for current annotation `@martin`
 - [x] Fork button initial state is broken (can now be solved by room-state event) `@nils`
 - [x] PR gets created in the orgin repo - check if it is possible to do that differently `@jannes`
-- [ ] Repo -> fork -> Colibri -> PR Fork -> PR Repo `@jannes`
+- [x] Repo -> fork -> Colibri -> PR Fork -> PR Repo `@jannes`
 - [ ] Load test - how to break the backend -
 - [ ] Load event posthog - get the userid [(IdentityStore)](https://github.com/Legit-Control/colibri/blob/main/src/lib/auth/IdentityStore.ts)
 - [x] Fix code block icon in toolbar `@nils`
