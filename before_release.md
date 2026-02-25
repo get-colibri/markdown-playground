@@ -1,7 +1,7 @@
 # Todo's
 
 - [x] show pr button needs the right url `@martin` -> send error states `@nils`
-- [ ] User name not loaded correcly - starts with Anonymous `@martin`
+- [x] User name not loaded correcly - starts with Anonymous `@martin`
 - [ ] fix deployment :D `@martin`
 - [x] fix missing paragraph after type list in to markdown `@martin`
 - [x] add ordering output for list items (increase for now) `@martin`
@@ -9,9 +9,9 @@
 - [x] Upload image should show a unhappy path `@martin`
 - [ ] add mermaid type to code block
 - [ ] provide errors from backend: `@martin`
-  - [ ] Unkown url (auch private)
-  - [ ] Unsupported provider
-  - [ ] unsupported file type
+   - [ ] Unkown url (auch private)
+   - [ ] Unsupported provider
+   - [ ] unsupported file type
 - [ ] connect erros in frontend `@nils`
 - [ ] handle error when server is down<br>&#8203;
 - [ ] Check all "read more here" buttons to link correctly `@jannes`
@@ -34,4 +34,4 @@
 - [ ] Load event posthog - get the userid [(IdentityStore)](https://github.com/Legit-Control/colibri/blob/main/src/lib/auth/IdentityStore.ts)
 - [x] Fix code block icon in toolbar `@nils`
 - [ ] view Modes
-  - [ ] show/hide - html comments
+   - [ ] show/hide - html comments
