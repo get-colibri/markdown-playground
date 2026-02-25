@@ -3,7 +3,7 @@
 - [x] show pr button needs the right url `@martin` -> send error states `@nils`
 - [ ] User name not loaded correcly - starts with Anonymous `@martin`
 - [ ] Upload image should show a unhappy path
-- [ ] 
+- [ ] p
 - [ ] Check all "read more here" buttons to link correctly `@jannes`
 - [x] Cursors move backwards - if written before `@martin`
 - [x] Annotations don't get removed when text iss removed?` @?`
