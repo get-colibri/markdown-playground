@@ -5,11 +5,7 @@
 - [ ] fix deployment :D
 - [ ] update instances to minimum maschine on render `@martin`
 - [x] Upload image should show a unhappy path
-
-```plain
-link issues to unhappy paths @jannes
-```
-
+- [ ] link issues to unhappy paths @jannes
 - [ ] add mermaid type to code block
 - [ ] add lock hover state to raw elements
 - [ ] second level checkboxes `@nils`
