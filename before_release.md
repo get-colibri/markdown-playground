@@ -4,7 +4,7 @@
 - [ ] User name not loaded correcly - starts with Anonymous `@martin`
 - [ ] fix deployment :D
 - [ ] fix missing paragraph after type list in to markdown
-- [ ] add ordering output for list items (increas
+- [ ] add ordering output for list items (increase for now)
 - [ ] update instances to minimum maschine on render `@martin`
 - [ ] Upload image should show a unhappy path
 - [ ] add mermaid type to code block
