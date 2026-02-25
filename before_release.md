@@ -11,7 +11,8 @@
   - [ ] Unsupported provider
   - [ ] unsupported file type
 - [ ] connect erros in frontend `@nils`
-- [ ] handle error when server is down (ws error) @nils
+- [ ] handle error when server is down (ws error) `@nils
+`
 - [ ] Check all "read more here" buttons to link correctly `@jannes`
 - [x] Cursors move backwards - if written before `@martin`
 - [x] Annotations don't get removed when text iss removed?` @?`
