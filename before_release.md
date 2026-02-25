@@ -3,7 +3,7 @@
 - [x] show pr button needs the right url `@martin` -> send error states `@nils`
 - [ ] User name not loaded correcly - starts with Anonymous `@martin`
 - [ ] Upload image should show a unhappy path
-- [ ] provide errors from backend:
+- [ ] provide errors from backend: 
   - [ ] Unkown url (auch private)
   - [ ] Unsupported provider
   - [ ] unsupported file type<br>&#8203;
