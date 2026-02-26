@@ -14,7 +14,7 @@
    - [ ] Unsupported provider
    - [ ] unsupported file type
 - [ ] connect erros in frontend `@nils`
-   - [ ] prevent err
+   - [ ] prevent errors from server on launcher
 - [ ] handle error when server is down<br>&#8203;
 - [ ] Check all "read more here" buttons to link correctly `@jannes`
 - [x] Cursors move backwards - if written before `@martin`
