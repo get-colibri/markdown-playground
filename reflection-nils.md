@@ -143,6 +143,7 @@ Most improvements came from watching where people got stuck. We spent a lot of t
   <BigQuote text="I genuinely think Legit is addressing a critical pain point for developers building with AI agents. It brings Git-like guarantees (the ability to track, inspect, and revert changes) to the application level, where AI agents actually operate." author="Udoh Jeremiah - Engineer at Heartbeat AI" link="https://www.linkedin.com/feed/update/urn:li:activity:7410367682455261184" />
   <BigQuote text="A version‑controlled AI agent is a brilliant leap toward a future where intelligent code writes, edits, and safeguards itself without human blind spots. By making every shift explicit and reversible, we turn the 10 % uncertainty into a learning feed for the next generation of self‑improving systems. This isn’t just a safeguard-it’s a glimpse of the autonomous development pipelines that will power the coming intelligent era." author="Jonas P - CTO at Diedai Health" link="https://www.linkedin.com/feed/update/urn:li:activity:7398652066023407616?commentUrn=urn%3Ali%3Acomment%3A%28activity%3A7398652066023407616%2C7398693968814731265%29&dashCommentUrn=urn%3Ali%3Afsd_comment%3A%287398693968814731265%2Curn%3Ali%3Aactivity%3A7398652066023407616%29" />
 </div>
+    
 ---
 
 ## 5. Product Experiments
