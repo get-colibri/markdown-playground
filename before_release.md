@@ -8,7 +8,7 @@
 - [x] add ordering output for list items (increase for now) `@martin`
 - [x] update instances to minimum maschine on render `@martin`
 - [x] Upload image should show a unhappy path `@martin`
-- [ ] add mermaid type to code block
+- [x] add mermaid type to code block
 - [ ] provide errors from backend: `@martin`
    - [ ] Unkown url (auch private)
    - [ ] Unsupported provider
