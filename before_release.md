@@ -18,7 +18,7 @@
 - [ ] handle error when server is down
 - [ ] PR gets always reopend `@martin`
 - [ ] RAW html edit `@martin`
-- [ ] cle
+- [ ] cleanup logs on client @martin
 - [ ] Add Badge to pr description `@janne`  
 `s`
 - [ ] 
