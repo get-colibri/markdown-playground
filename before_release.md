@@ -18,7 +18,8 @@
 - [ ] handle error when server is down
 - [ ] PR gets always reopend `@martin`
 - [ ] RAW html edit `@martin`
-- [ ] Add Badge to pr descriptio<br>&#8203;
+- [ ] Add Badge to pr description @janne  
+s
 - [x] 
 - [ ] Check all "read more here" buttons to link correctly `@jannes`
 - [x] Cursors move backwards - if written before `@martin`
