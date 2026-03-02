@@ -24,7 +24,7 @@
 - [x] UI glitch new annotation `@nils`
 - [x] PR text `@jannes` `@martin`?
 - [x] Root doesnt work app.get-colibri.com `@nils`
-- [ ] "new" button - modal! `@jannes`
+- [x] "new" button - modal! `@jannes`
 - [x] Saved fork hover doesn't resolve to the branch where changes are applied @martin -> @nils
 - [x] master/main redirect - join room exception handling `@? `
 - [x] checkbox to markdown broken `@Martin`
